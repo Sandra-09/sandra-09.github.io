@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Onai Sandra Yayra"
-  avatar : "/assets/images/IMG-20190918-WA0005.jpg"
+  avatar : "/assets/images/IMG-20190918-WA0005.jpg?raw=true"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
